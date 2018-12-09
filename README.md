@@ -1,4 +1,4 @@
-# hello
+# vuecli3-framework7-template
 
 ## Project setup
 ```
