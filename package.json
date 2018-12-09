@@ -8,6 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "framework7": "^3.5.2",
+    "framework7-vue": "^3.5.2",
+    "lib-flexible": "^0.3.2",
+    "postcss-px2rem": "^0.3.0",
     "vue": "^2.5.17"
   },
   "devDependencies": {
